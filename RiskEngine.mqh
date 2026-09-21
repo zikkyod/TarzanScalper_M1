@@ -175,7 +175,6 @@ public:
         }
       if(bias == BIAS_SHORT && tp >= entry)
         {
-         // try Fib 0.0
          tp = fib.Fib0() - tpb;
          if(tp >= entry)
            {

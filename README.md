@@ -66,7 +66,7 @@ Hard rule: **no BOS-only entries**. BOS sets/flips bias and redraws Fib; entries
 
 ## Demo attach — XAUUSD M1 (Gold)
 
-1. Open a **separate** demo chart: **XAUUSD** (or your broker’s gold symbol), **M1**.
+1. Open a **separate** demo chart: **XAUUSD** (or your broker’s gold symbol), M1.
 2. Attach **TarzanScalper** again (v1 = one EA instance per chart/symbol).
 3. Inputs:
    - `InpEnableTrading` = **false** first
